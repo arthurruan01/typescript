@@ -1,4 +1,4 @@
-# Aula de Typescript 
+# Typescript 
   
 
 ## Sobre a estrutura de commits  
@@ -65,3 +65,4 @@ Caso queira fazer testes usando html é só alterar o index.html.
     4. Existem outras regras e explicações mais elaboradas na documentação oficial (https://www.typescriptlang.org/tsconfig)
    
 
+## 🚀 Arthur Fernandes! 🚀
